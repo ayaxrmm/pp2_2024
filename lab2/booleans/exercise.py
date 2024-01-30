@@ -1,0 +1,10 @@
+#1task
+print(10>9)
+#2task
+print(10==9)
+#3task
+print(10<9)
+#4task
+print(bool("abc"))
+#5task
+print(bool(0))
