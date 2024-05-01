@@ -1,0 +1,4 @@
+host="localhost",
+database="students",
+user="postgres",
+password="Ayau2006"
